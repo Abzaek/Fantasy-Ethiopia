@@ -1,4 +1,4 @@
-# flutter-2024-proj
+# Fantasy-Ethiopia
 ## Project Description
 Fantasy Ethiopia is a fantasy football mobile application in which users create virtual football teams and compete in with the cumulative score of avatar footballers. 
 
