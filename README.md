@@ -12,12 +12,3 @@ Game administrators are in charge of the game logic: including Creating an avata
 A user with a player role can create a team with the avatars available, can transfer in or out avatars to his team, can join in leagues to compete with other players.
 5. **Feature 1-Avatars:** Avatars can be created, updated, read and deleted by Game administrators. Using the avatars, players can create, update and delete teams.
 6. **Feature 2-League:** Leagues are contest sites which players join to compete in. A user with game administrator role can create, update, read and delete Leagues for other players to participate in.
-   
-## Group Members
-| Member Name    | ID |
-|--------------|:-----:|
-| 1. Abdulmejd Kelil | UGR/3326/14 |     
-| 2. Abdulazez Zeinu | UGR/1223/14|         
-| 3. Bemnet Aschalew | UGR/2248/14 |     
-| 4. Sofonyas Tizazu | UGR/0492/14|  
-
